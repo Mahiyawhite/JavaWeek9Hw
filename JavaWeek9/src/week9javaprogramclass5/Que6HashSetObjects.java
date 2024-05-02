@@ -1,4 +1,4 @@
-package que3to11javaclass5;
+package week9javaprogramclass5;
 /*Use a HashSet that stores Integer Objects. Store the number 4, 7 and 8 to Sets.
 Show which numbers are between 1 and 10 are in the set. (Hint: use for loop
 and if else)*/

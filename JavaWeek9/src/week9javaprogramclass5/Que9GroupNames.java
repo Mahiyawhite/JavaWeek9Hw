@@ -1,4 +1,4 @@
-package que3to11javaclass5;
+package week9javaprogramclass5;
 /*Write program and add all group names in to array and iterates through for
 each loop.*/
 

@@ -1,4 +1,4 @@
-package que3to11javaclass5;
+package week9javaprogramclass5;
 /*Write a Java program to create a new array list, add some colours(string) and
 printout the collection using for each loop.*/
 
