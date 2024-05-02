@@ -1,4 +1,4 @@
-package calculate;
+package que1calculate;
 
 public class Calculator {
     public void addition(int a, int b) {

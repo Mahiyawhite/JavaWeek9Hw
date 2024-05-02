@@ -1,4 +1,4 @@
-package calculate;
+package que1calculate;
 
 import java.util.Scanner;
 
